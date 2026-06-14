@@ -3,7 +3,7 @@
 A Convolutional Neural Network built with Keras to classify the
 [Fashion MNIST dataset](https://keras.io/api/datasets/fashion_mnist/),
 implemented twice — once in **Python** (using Python classes) and once in
-**R** (using R Reference Classes) — as preparation for adapting the same
+**R** (using R Reference Classes), as preparation for adapting the same
 architecture to user-profile image classification for targeted marketing.
 
 ## Contents
@@ -27,7 +27,7 @@ is a 28×28 grayscale picture belonging to one of 10 fashion categories:
 | 3     | Dress       | 8     | Bag        |
 | 4     | Coat        | 9     | Ankle boot |
 
-The dataset is downloaded automatically by Keras on first run — no manual
+The dataset is downloaded automatically by Keras on first run, no manual
 download is needed.
 
 ## Network Architecture (6 Layers)
