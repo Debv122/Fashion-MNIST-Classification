@@ -2,7 +2,7 @@
 
 A Convolutional Neural Network built with Keras to classify the
 [Fashion MNIST dataset](https://keras.io/api/datasets/fashion_mnist/),
-implemented twice — once in **Python** (using Python classes) and once in
+implemented twice, once in **Python** (using Python classes) and once in
 **R** (using R Reference Classes), as preparation for adapting the same
 architecture to user-profile image classification for targeted marketing.
 
